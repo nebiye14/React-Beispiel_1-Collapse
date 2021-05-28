@@ -2,11 +2,12 @@
 
 In diesem Projekt werden das Collapse und Card Component verwendet und wurde die Collapse-Funktion durch 'props' und 'state' erstellt.
 
-Dieses Projekt wurde mit [Create React App](https://github.com/facebook/create-react-app) gebootet.
+[![Collapse mit React JS / Basic Beispiel-1](https://img.youtube.com/vi/JgiHmXY_xAU/0.jpg)](https://www.youtube.com/watch?v=K5odamM0Ebo)
+
 
 ### Erste Schritte mit Create React App
 
-Dieses Projekt wurde mit gebootet .
+Dieses Projekt wurde mit [Create React App](https://github.com/facebook/create-react-app) gebootet.
 
 #### Verfügbare Skripte
 
